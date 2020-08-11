@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1088996591037",
+    "firebase_url": "https://hiringassignment.firebaseio.com",
+    "project_id": "hiringassignment",
+    "storage_bucket": "hiringassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088996591037:android:d807ae7347e7142ceffed4",
+        "android_client_info": {
+          "package_name": "com.example.HiringAssignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088996591037-hulttc3fr67kec7gejqocer56ho6d3hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBw1vcOVwyLY-kQRMnM-5-8UelatsQZ4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088996591037-hulttc3fr67kec7gejqocer56ho6d3hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
